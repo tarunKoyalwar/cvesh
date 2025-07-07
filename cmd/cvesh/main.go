@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 const (
-	Version = "0.0.1"
+	Version = "0.1.0"
 )
 
 func main() {
